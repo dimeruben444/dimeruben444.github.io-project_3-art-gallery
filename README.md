@@ -21,7 +21,7 @@ El proyecto consiste en el diseño y maquetación de la sección principal y  de
 
 ##  Demo
 
-👉 [Ver el proyecto online](https://dimeruben444.github.io/dimeruben444.github.io-project_1-spa-beauty/)
+👉 [Ver el proyecto online](https://dimeruben444.github.io/dimeruben444.github.io-project_3-art-gallery/)
 
 
 ##  Aprendizaje
